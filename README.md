@@ -1,5 +1,3 @@
-Here's a comprehensive description of your portfolio project to add to your README:
-
 ## Project Description
 
 This portfolio website serves as a comprehensive digital showcase of my professional journey as a BSIT student and aspiring developer. The multi-page interactive platform highlights my technical capabilities, academic background, and project experience through carefully designed interfaces.
